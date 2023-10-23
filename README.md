@@ -1,0 +1,1 @@
+# fukuten25-net8-samples
