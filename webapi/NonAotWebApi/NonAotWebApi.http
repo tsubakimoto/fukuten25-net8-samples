@@ -1,0 +1,6 @@
+@NonAotWebApi_HostAddress = http://localhost:5245
+
+GET {{NonAotWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

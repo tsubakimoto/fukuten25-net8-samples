@@ -1,0 +1,11 @@
+@AotWebApi_HostAddress = http://localhost:5077
+
+GET {{AotWebApi_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{AotWebApi_HostAddress}}/todos/1
+Accept: application/json
+
+###
